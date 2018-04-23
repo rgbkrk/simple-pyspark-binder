@@ -1,1 +1,3 @@
-pyspark
+pyspark==2.3.0
+nbserverproxy
+py4j
